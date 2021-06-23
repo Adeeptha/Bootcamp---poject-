@@ -1,0 +1,8 @@
+
+-------------------------------------------------------------
+Weather Stats for - SRI LANKA  || 23 Jun 2021 | 08:51:16 PM
+-------------------------------------------------------------
+Current temperature is: 20.75 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :85%
+Current wind speed    :3.17kmph
